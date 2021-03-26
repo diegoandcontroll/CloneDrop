@@ -11,7 +11,7 @@ Define your firebase configuration in the Controller file to use your firebase p
 Run the command below to install the dependencies:
 
 ```sh
-yarn
+yarn or npm
 ```
 
 
